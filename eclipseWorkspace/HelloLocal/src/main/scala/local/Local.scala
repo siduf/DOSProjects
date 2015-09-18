@@ -1,3 +1,4 @@
+/*test comment*/
 package sha256
 import akka.actor.{ Actor, ActorRef, Props, ActorSystem }
 import akka.actor.actorRef2Scala
