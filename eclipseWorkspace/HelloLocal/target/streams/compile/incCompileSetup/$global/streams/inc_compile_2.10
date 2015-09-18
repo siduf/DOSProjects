@@ -1,0 +1,312 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/ConsolidateCoins$.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/ConsolidateCoins.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$2.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/HelpMining$.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/HelpMining.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins$$anonfun$receive$2.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/NumberOfTries$.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/NumberOfTries.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/RemoteActor1$$anonfun$receive$1.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/RemoteActor1.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$$anonfun$1.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$delayedInit$body.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/StartMining$.class
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/StartMining.class
+binary dependencies:
+3 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /home/sid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.ConsolidateCoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.ConsolidateCoins$
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.GetBitcoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.GetBitcoins$$anonfun$receive$3
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$2
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.HelpMining
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.HelpMining$
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.MineBitcoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.MineBitcoins$$anonfun$receive$2
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.MineBitcoins$$anonfun$receive$2$$anonfun$applyOrElse$1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.NumberOfTries
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.NumberOfTries$
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.RemoteActor1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.RemoteActor1$$anonfun$receive$1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.SHA256
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.SHA256$
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.SHA256$$anonfun$1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.SHA256$delayedInit$body
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.StartMining
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256.StartMining$
+used names:
+138 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> !
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> &
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> &&
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> *
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> +
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> -
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> /
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> <init>
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ==
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ?
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> A1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> AbstractFunction0
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> AbstractFunction3
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Actor
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ActorRef
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ActorSystem
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> App
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Array
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> B1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ClassTag
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ConsolidateCoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> DurationInt
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ExecutionContexts
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Function1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> GetBitcoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> HelpMining
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Integer
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Integer2int
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> MessageDigest
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> MineBitcoins
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> None
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> NumberOfTries
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Option
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Predef
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Product
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Props
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Random
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> RemoteActor1
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> RoundRobinRouter
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Runtime
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> SHA256
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ScalaRunTime
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Serializable
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Source
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> StartMining
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> String
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> StringBuffer
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> StringContext
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Timeout
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> Unit
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> _hashCode
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> _toString
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> a
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> actor
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> actorFor
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> actorOf
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> actorRef2Scala
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> actorcount
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> akka
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> alphanumeric
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> append
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> apply
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> asInstanceOf
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ask
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> availableProcessors
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> bitcoin
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> c
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> charAt
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> concurrent
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> context
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> digest
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> dispatch
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> duration
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ec
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> eq
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> fileSender
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> foreach
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> fromFile
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> gatorid
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> getBytes
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> getInstance
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> getRuntime
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> global
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> hex
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> hexString
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> hexvalue
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> i
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> int2Integer
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> intWrapper
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> io
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> isInstanceOf
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> j
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> java
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> k
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> lang
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> length
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> materializeClassTag
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> mkString
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> package
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> pattern
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> println
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> processes
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> readInt
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> remote
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> routing
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> running
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> runtime
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> s
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> scala
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> seconds
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> security
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> self
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sender
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> sha256
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> shutdown
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> split
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> string
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> stringarr
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> stringwithseed
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> substring
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> system
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> take
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> timeout
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> to
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> toHexString
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> toString
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> tobesent
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> toremote
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> tries
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> tries_=
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> typedProductIterator
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> unchecked
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> update
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> util
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> withRouter
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> x$0
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> ||
+product stamps:
+22 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/ConsolidateCoins$.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/ConsolidateCoins.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$1.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2$$anonfun$apply$mcVI$sp$2.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3$$anonfun$applyOrElse$2.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins$$anonfun$receive$3.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/GetBitcoins.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/HelpMining$.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/HelpMining.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins$$anonfun$receive$2.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/MineBitcoins.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/NumberOfTries$.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/NumberOfTries.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/RemoteActor1$$anonfun$receive$1.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/RemoteActor1.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$$anonfun$1.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256$delayedInit$body.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/SHA256.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/StartMining$.class -> lastModified(1442200685000)
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/target/scala-2.10/classes/sha256/StartMining.class -> lastModified(1442200685000)
+source stamps:
+1 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> hash(facf1ea3a401aef69afc35e9f5f4cdb9cdb60dd2)
+binary stamps:
+3 items
+/home/sid/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar -> lastModified(1396466198000)
+/home/sid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar -> lastModified(1396783503000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1437726344000)
+class names:
+3 items
+/home/sid/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar -> akka.actor.Actor
+/home/sid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar -> scala.App
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDAxbYDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwny8Bq3QABHNlbGZzcQB+AAvauTG5dAACZWNzcQB+AAuyKr71dAAHY29udGV4dHVxAH4ACQAAAD1zcQB+AAuwYXyJdAALR2V0Qml0Y29pbnNzcQB+AAtkE4fOdAAGbm90aWZ5c3EAfgALEBhTWXQAB1JlY2VpdmVzcQB+AAs8sMVGdAAHYml0Y29pbnNxAH4ACzBs1u10AAhoZXh2YWx1ZXNxAH4AC+v8DEh0AAxSZW1vdGVBY3RvcjFzcQB+AAvglKCYdAAEd2FpdHNxAH4AC3CMANt0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC9erwsN0AA0kYXNJbnN0YW5jZU9mc3EAfgAL8ijHxXQADHByb2R1Y3RBcml0eXNxAH4AC6guGa90AAZlcXVhbHNzcQB+AAsjOB9hdAAHcnVubmluZ3NxAH4AC+bzq+Z0AA1OdW1iZXJPZlRyaWVzc3EAfgALv8RT4nQADGFzSW5zdGFuY2VPZnNxAH4AC15iugd0AApIZWxwTWluaW5nc3EAfgALzgOLlXQADmV4ZWN1dGlvblN0YXJ0c3EAfgALQEpAn3QADHN5bmNocm9uaXplZHNxAH4AC8IZ/8x0AAtTdGFydE1pbmluZ3NxAH4AC5aZWYl0AA0kaXNJbnN0YW5jZU9mc3EAfgALcSgDX3QAB3JlY2VpdmVzcQB+AAsVFDEkdAAKcHJlUmVzdGFydHNxAH4AC0e67VV0AAhjYW5FcXVhbHNxAH4AC5EozhF0AAZzdHJpbmdzcQB+AAs/IEUWdAAFX2FyZ3NzcQB+AAtGfNAJdAALcG9zdFJlc3RhcnRzcQB+AAsM7pUWdAAEbWFpbnNxAH4AC1FS0zt0AAhwb3N0U3RvcHNxAH4ACwR3T690AA1wcm9kdWN0UHJlZml4c3EAfgALXBVtZnQACGluaXRDb2Rlc3EAfgAL5fTvjHQACW5vdGlmeUFsbHNxAH4AC+8GPxB0AAxpc0luc3RhbmNlT2ZzcQB+AAvc7VzydAAGPGluaXQ+c3EAfgALUlZdy3QABlNIQTI1NnNxAH4AC1KxvLp0AAZyZW1vdGVzcQB+AAsaESW7dAAIcHJlU3RhcnRzcQB+AAvaMK2HdAAJdW5oYW5kbGVkc3EAfgALEny4jHQAAj09c3EAfgALSLbL9HQACmZpbGVTZW5kZXJzcQB+AAvs7yI5dAAFY2xvbmVzcQB+AAtc6xY+dAAOY29weSRkZWZhdWx0JDNzcQB+AAvGAQWRdAAEY29weXNxAH4ACz8Pl2F0AAZzZW5kZXJzcQB+AAtRlX/wdAAFdHJpZXNzcQB+AAsMxY3pdAAIdG9TdHJpbmdzcQB+AAtFlsTndAAEYXJnc3NxAH4AC6/lSbh0AAxNaW5lQml0Y29pbnNzcQB+AAuNiWmmdAACIT1zcQB+AAvjTw1hdAAIZ2V0Q2xhc3NzcQB+AAs50xHhdAAOY29weSRkZWZhdWx0JDFzcQB+AAuk94ivdAAHZ2F0b3JpZHNxAH4AC8w+Qj10AAJuZXNxAH4AC8J7jlR0AAFrc3EAfgALvvVQW3QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACzERUZ10AAJlcXNxAH4AC0+SOpJ0ABBDb25zb2xpZGF0ZUNvaW5zc3EAfgALyM3HznQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC2CSLOV0AAtkZWxheWVkSW5pdHNxAH4ACxrtXed0AAIjI3NxAH4AC5U4sFB0AAhmaW5hbGl6ZXNxAH4AC2yydid0AA5wcm9kdWN0RWxlbWVudHNxAH4AC9H991Z0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFzaGEyNTYuSGVscE1pbmluZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCvAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCXTAAJaW5oZXJpdGVkcQB+AJdMAAdwYXJlbnRzcQB+AJd4cQB+ALZzcQB+AK8BdXEAfgCSAAAAAHBzcQB+AK8BdXEAfgCSAAAAAHBzcQB+AK8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC1dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC1c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCcQB+AMV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ApwAAAABxAH4Aq3VxAH4ArQAAAABzcQB+AK8BcQB+ALdwc3EAfgCvAXNxAH4AuXNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AJIAAAAAcHNxAH4ArwF1cQB+AMAAAAADc3EAfgDCdAAFQWN0b3JzcQB+AMZzcQB+AMl1cQB+AMwAAAADc3EAfgDOdAAEYWtrYXNxAH4AznQABWFjdG9ycQB+ANNzcQB+AMJxAH4A4XNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM5xAH4A2XNxAH4AznEAfgDncQB+ANNzcQB+AMJxAH4A6XNxAH4AxnNxAH4AyXVxAH4AzAAAAAJzcQB+AM5xAH4A0XEAfgDTcHBzcQB+AJRxAH4AoXVxAH4AogAAAABzcQB+AKQAdAASc2hhMjU2LkdldEJpdGNvaW5zdXEAfgCnAAAAAHEAfgCrdXEAfgCtAAAAAHNxAH4ArwFxAH4At3BzcQB+AK8Bc3EAfgC5c3EAfgCvAXVxAH4AkgAAAABwc3EAfgCvAXVxAH4AkgAAAABwc3EAfgCvAXVxAH4AwAAAAANzcQB+AMJ0AAVBY3RvcnNxAH4AxnNxAH4AyXVxAH4AzAAAAANzcQB+AM50AARha2thc3EAfgDOdAAFYWN0b3JxAH4A03NxAH4AwnEAfgDhc3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznEAfgDZc3EAfgDOcQB+AOdxAH4A03NxAH4AwnEAfgDpc3EAfgDGc3EAfgDJdXEAfgDMAAAAAnNxAH4AznEAfgDRcQB+ANNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABnNoYTI1NnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8nb4e51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABfL2hvbWUvc2lkL0Rvd25sb2Fkcy9CaXRjb2luLU1pbmluZy1tYXN0ZXIvZWNsaXBzZVdvcmtzcGFjZS9IZWxsb0xvY2FsL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT6zx6jpAGu9pr8Nen19M25zbYN0g==
+external apis:
+0 items
+source infos:
+1 items
+/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloLocal/src/main/scala/local/Local.scala -> 
+AAAAAAAAAAEAAAEAAAAfACwgIGltcGxpY2l0IHZhbCB0aW1lb3V0ID0gVGltZW91dCgyNSBzZWNvbmRzKQEAAAR1AQAAACQBACQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAGYvaG9tZS9zaWQvRG93bmxvYWRzL0JpdGNvaW4tTWluaW5nLW1hc3Rlci9lY2xpcHNlV29ya3NwYWNlL0hlbGxvTG9jYWwvc3JjL21haW4vc2NhbGEvbG9jYWwvTG9jYWwuc2NhbGEBAGYvaG9tZS9zaWQvRG93bmxvYWRzL0JpdGNvaW4tTWluaW5nLW1hc3Rlci9lY2xpcHNlV29ya3NwYWNlL0hlbGxvTG9jYWwvc3JjL21haW4vc2NhbGEvbG9jYWwvTG9jYWwuc2NhbGEBZnBvc3RmaXggb3BlcmF0b3Igc2Vjb25kcyBzaG91bGQgYmUgZW5hYmxlZApieSBtYWtpbmcgdGhlIGltcGxpY2l0IHZhbHVlIGxhbmd1YWdlLnBvc3RmaXhPcHMgdmlzaWJsZS4KVGhpcyBjYW4gYmUgYWNoaWV2ZWQgYnkgYWRkaW5nIHRoZSBpbXBvcnQgY2xhdXNlICdpbXBvcnQgc2NhbGEubGFuZ3VhZ2UucG9zdGZpeE9wcycKb3IgYnkgc2V0dGluZyB0aGUgY29tcGlsZXIgb3B0aW9uIC1sYW5ndWFnZTpwb3N0Zml4T3BzLgpTZWUgdGhlIFNjYWxhIGRvY3MgZm9yIHZhbHVlIHNjYWxhLmxhbmd1YWdlLnBvc3RmaXhPcHMgZm9yIGEgZGlzY3Vzc2lvbgp3aHkgdGhlIGZlYXR1cmUgc2hvdWxkIGJlIGV4cGxpY2l0bHkgZW5hYmxlZC4B
+compilations:
+34 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIyVOAJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIye0ud1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIykoQx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI6WMad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI6dfrB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI6mXdp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI6shd51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI6uqVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI60dDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI63f/h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI66jg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI7CRfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI/0GW11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSI/81/51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJCvCpp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJC14lF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJC6Gqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJDB8gh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJDSMgN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJDwgUd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJDxr5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJD4ifJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJD5ZjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJEkkdZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXUM6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfMVxlY2xpcHNlV29ya3NwYWNlXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSJEnlGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXUM6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfMVxlY2xpcHNlV29ya3NwYWNlXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKo1Htp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKo8jbd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKpYR8R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKpc1F11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSKpeXl91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAc0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcRE9TIFBST0pFQ1RfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSPJMYd51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZ0Q6XERPU1xQcm9qZWN0IDFcUFJPSkVDVDFfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSP2kQfJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAf0M6XFVzZXJzXERlZXBhaydzXERlc2t0b3BcUFJPSkVDVDFfVUZJRHNfMTMzNjEyMzFfNTcxNjQ2MTlcQml0Y29pbi1NaW5pbmdcZWNsaXBzZVdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8nLyih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9ob21lL3NpZC9Eb3dubG9hZHMvQml0Y29pbi1NaW5pbmctbWFzdGVyL2VjbGlwc2VXb3Jrc3BhY2UvSGVsbG9Mb2NhbC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8nb4e51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXy9ob21lL3NpZC9Eb3dubG9hZHMvQml0Y29pbi1NaW5pbmctbWFzdGVyL2VjbGlwc2VXb3Jrc3BhY2UvSGVsbG9Mb2NhbC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==

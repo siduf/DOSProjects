@@ -1,0 +1,49 @@
+[0m[[0mdebug[0m] [0mInvalidating C:\Program Files\Java\jre7\lib\rt.jar: class java.lang.Object now provided by /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Deepak's\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\bundles\akka-actor_2.10-2.1.1.jar: class akka.actor.Actor now provided by /home/sid/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Deepak's\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.1.jar: class scala.runtime.AbstractPartialFunction now provided by /home/sid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\RemoteActor.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\NumberOfTries$.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\GetBitcoins$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$mcVI$sp$1.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\GetBitcoins.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\RemoteActor$$anonfun$receive$2.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\GetBitcoins$$anonfun$receive$1$$anonfun$applyOrElse$1.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\HelloRemote.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\GetBitcoins$$anonfun$receive$1.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\HelpMining.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\GetBitcoins$$anonfun$receive$1$$anonfun$applyOrElse$1$$anonfun$apply$mcVI$sp$2.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\HelpMining$.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\HelloRemote$.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\HelloRemote$delayedInit$body.class, C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\target\scala-2.10\classes\remote\NumberOfTries.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(C:\Program Files\Java\jre7\lib\rt.jar, C:\Users\Deepak's\.ivy2\cache\com.typesafe.akka\akka-actor_2.10\bundles\akka-actor_2.10-2.1.1.jar, C:\Users\Deepak's\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.1.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala, /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala, /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4228bc8b, interfacing (CompilerInterface) with Scala compiler version 2.10.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/sid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/target/scala-2.10/classes:/home/sid/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.1.jar:/home/sid/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar:/home/sid/.ivy2/cache/com.typesafe.akka/akka-remote_2.10/bundles/akka-remote_2.10-2.1.1.jar:/home/sid/.ivy2/cache/io.netty/netty/bundles/netty-3.5.8.Final.jar:/home/sid/.ivy2/cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar:/home/sid/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 33.207699818 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/sid/Downloads/Bitcoin-Mining-master/eclipseWorkspace/HelloRemote/src/main/scala/remote/HelloRemote.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Deepak's\Desktop\PROJECT1_UFIDs_13361231_57164619\Bitcoin-Mining\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	self, context.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

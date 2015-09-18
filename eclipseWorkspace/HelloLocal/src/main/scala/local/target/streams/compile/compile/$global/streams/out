@@ -1,0 +1,106 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to D:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 48152ddd, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes;C:\Users\Deepak's\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:2: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{ Actor, ActorRef, Props, ActorSystem }[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.actorRef2Scala[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:4: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.dispatch.ExecutionContexts.global[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.pattern.ask[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.util.Timeout[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:10: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.routing.RoundRobinRouter[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:18: not found: value akka[0m
+[0m[[31merror[0m] [0m  import akka.util.Timeout[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:20: not found: value akka[0m
+[0m[[31merror[0m] [0m  import akka.pattern.ask[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:21: not found: value akka[0m
+[0m[[31merror[0m] [0m  import akka.dispatch.ExecutionContexts._[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:22: not found: value global[0m
+[0m[[31merror[0m] [0m  implicit val ec = global[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:25: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0m  implicit val system = ActorSystem("LocalSystem")[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:31: not found: value Timeout[0m
+[0m[[31merror[0m] [0m  implicit val timeout = Timeout(25 seconds)[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:38: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass RemoteActor1 extends Actor {[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:39: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:46: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass MineBitcoins(gatorid: String,k: Integer) extends Actor {[0m
+[0m[[31merror[0m] [0m                                                       ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:49: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  private var fileSender: Option[ActorRef] = None[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:51: not found: value context[0m
+[0m[[31merror[0m] [0m var remote = context.actorFor("akka://HelloRemoteSystem@127.0.0.1:5150/user/RemoteActor")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:57: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:66: not found: value context[0m
+[0m[[31merror[0m] [0m        val actor = context.actorOf(Props[GetBitcoins].withRouter(RoundRobinRouter(actorcount)))[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:85: not found: value context[0m
+[0m[[31merror[0m] [0m        context.system.shutdown()[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:103: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass GetBitcoins extends Actor {[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:105: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:125: not found: value sender[0m
+[0m[[31merror[0m] [0m         sender ! NumberOfTries()[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\DOS\Project 1\PROJECT1_UFIDs_13361231_57164619\eclipseWorkspace\HelloLocal\src\main\scala\local\Local.scala:135: not found: value sender[0m
+[0m[[31merror[0m] [0m         sender ! ConsolidateCoins(tries,stringwithseed,hexString.toString()/*BITCOIN AND MAYBE HASH VALUE AS WELL*/)[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0m24 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m

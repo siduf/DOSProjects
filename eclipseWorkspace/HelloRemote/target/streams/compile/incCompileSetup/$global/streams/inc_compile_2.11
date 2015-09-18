@@ -1,0 +1,126 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote$.class
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote$delayedInit$body.class
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote.class
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\RemoteActor$$anonfun$receive$1.class
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\RemoteActor.class
+binary dependencies:
+3 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> C:\Users\Abhishek\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> C:\Users\Abhishek\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote.HelloRemote
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote.HelloRemote$
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote.HelloRemote$delayedInit$body
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote.RemoteActor
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote.RemoteActor$$anonfun$receive$1
+used names:
+35 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> !
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> <init>
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> A1
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> Actor
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> ActorSystem
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> App
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> B1
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> ClassTag
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> Function1
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> HelloRemote
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> Predef
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> Props
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> RemoteActor
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> StringContext
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> actor
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> actorOf
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> actorRef2Scala
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> akka
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> apply
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> asInstanceOf
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> isInstanceOf
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> materializeClassTag
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> package
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> println
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> qual$1
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remote
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> remoteActor
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> s
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> scala
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> self
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> sender
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> system
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> unchecked
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> x$1
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> x$2
+product stamps:
+5 items
+F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote$.class -> lastModified(1411106788970)
+F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote$delayedInit$body.class -> lastModified(1411106788974)
+F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\HelloRemote.class -> lastModified(1411106788906)
+F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\RemoteActor$$anonfun$receive$1.class -> lastModified(1411106788990)
+F:\eclipseWorkspace\HelloRemote\target\scala-2.11\classes\remote\RemoteActor.class -> lastModified(1411106788985)
+source stamps:
+1 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> hash(e0e9099405414e4abb24c65ed2e4205c78b3d7a9)
+binary stamps:
+3 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1411106733385)
+C:\Users\Abhishek\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+C:\Users\Abhishek\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+class names:
+3 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\Abhishek\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+C:\Users\Abhishek\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.App
+internal apis:
+1 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBOoEsuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzPFLsnQABHNlbGZzcQB+AAseAitidAAHY29udGV4dHVxAH4ACQAAACpzcQB+AAurFmLRdAAGbm90aWZ5c3EAfgALqEW6/HQAB1JlY2VpdmVzcQB+AAu+hMjvdAAEd2FpdHNxAH4ACxLEHGB0AA0kYXNJbnN0YW5jZU9mc3EAfgALXC0K93QABnN5c3RlbXNxAH4AC8M8NaN0AAZlcXVhbHNzcQB+AAvQXh8UdAAMYXNJbnN0YW5jZU9mc3EAfgALuRNaD3QADmV4ZWN1dGlvblN0YXJ0c3EAfgALmWQ+PXQADHN5bmNocm9uaXplZHNxAH4AC531xdt0AA0kaXNJbnN0YW5jZU9mc3EAfgALv1qZanQAB3JlY2VpdmVzcQB+AAtyHHiDdAAKcHJlUmVzdGFydHNxAH4AC5gm7JF0AA1hcm91bmRSZWNlaXZlc3EAfgAL4Ch6ZnQAC3Bvc3RSZXN0YXJ0c3EAfgALFWFCYXQABG1haW5zcQB+AAuNltw7dAAIcG9zdFN0b3BzcQB+AAtoG2chdAALUmVtb3RlQWN0b3JzcQB+AAu9w5k4dAAJbm90aWZ5QWxsc3EAfgAL6LQxYHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL8BS0znQADGlzSW5zdGFuY2VPZnNxAH4AC2D2ZuV0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgAL3EA3AXQADmFyb3VuZFBvc3RTdG9wc3EAfgAL76s0DXQABjxpbml0PnNxAH4AC64vqzp0AAhwcmVTdGFydHNxAH4AC8ceQG10AAl1bmhhbmRsZWRzcQB+AAs/erP3dAACPT1zcQB+AAv2F3BpdAAFY2xvbmVzcQB+AAuZbTQBdAALSGVsbG9SZW1vdGVzcQB+AAtI3e3tdAAGc2VuZGVyc3EAfgALOZV0AnQACHRvU3RyaW5nc3EAfgALvmgDU3QABGFyZ3NzcQB+AAu7riKidAACIT1zcQB+AAu7TGftdAAIZ2V0Q2xhc3NzcQB+AAusaHTrdAACbmVzcQB+AAtnwOsrdAALcmVtb3RlQWN0b3JzcQB+AAs7rfCzdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALSGvPTHQAAmVxc3EAfgALwMN5X3QAC2RlbGF5ZWRJbml0c3EAfgALvkitaXQAAiMjc3EAfgALrSV5bnQACGZpbmFsaXplc3EAfgALhghhknQACGhhc2hDb2Rlc3EAfgAL/PpcWnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ab3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEnJlbW90ZS5IZWxsb1JlbW90ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AiQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCQc3EAfgCJAXVxAH4AagAAAABwc3EAfgCJAXVxAH4AagAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AcHEAfgB5dXEAfgB6AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AmnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCPdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALRzcQB+AHwAcQB+AC91cQB+AH8AAAAAc3EAfgCndAAEVW5pdHEAfgCtdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AmnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AgnQABVBsYWlucQB+AE9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKhbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AI9zcQB+AKd0AAVBcnJheXEAfgCtdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AKd0AAZTdHJpbmdzcQB+AKtzcQB+AK51cQB+ALEAAAADc3EAfgCzdAAEamF2YXNxAH4As3QABGxhbmdxAH4AuHBzcQB+AIkBdXEAfgDPAAAABHNxAH4Ap3QAA0FwcHEAfgCtc3EAfgCndAALRGVsYXllZEluaXRxAH4ArXNxAH4Ap3QABk9iamVjdHEAfgDTc3EAfgCndAADQW55cQB+AK1wcHNxAH4AbHEAfgB5dXEAfgB6AAAAAHNxAH4AfAB0ABJyZW1vdGUuUmVtb3RlQWN0b3J1cQB+AH8AAAAAfnEAfgCBdAAIQ2xhc3NEZWZ1cQB+AIUAAAAAc3EAfgCJAXEAfgCRcHNxAH4AiQFzcQB+AJNzcQB+AIkBdXEAfgBqAAAAAHBzcQB+AIkBdXEAfgBqAAAAAHBzcQB+AIkBdXEAfgDPAAAAA3NxAH4Ap3QABUFjdG9yc3EAfgCrc3EAfgCudXEAfgCxAAAAA3NxAH4As3QABGFra2FzcQB+ALN0AAVhY3RvcnEAfgC4c3EAfgCncQB+AOFzcQB+AKtzcQB+AK51cQB+ALEAAAADc3EAfgCzcQB+ANdzcQB+ALNxAH4A2XEAfgC4c3EAfgCncQB+AONzcQB+AKtzcQB+AK51cQB+ALEAAAACc3EAfgCzcQB+ALZxAH4AuHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAGcmVtb3Rlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFIjISD43VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADlGOlxlY2xpcHNlV29ya3NwYWNlXEhlbGxvUmVtb3RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTg6QmUBUFOSrskxl7S5CBceLPXqQ==
+external apis:
+0 items
+source infos:
+1 items
+F:\eclipseWorkspace\HelloRemote\src\main\scala\remote\HelloRemote.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIx2D0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9SZW1vdGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIyEg+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOUY6XGVjbGlwc2VXb3Jrc3BhY2VcSGVsbG9SZW1vdGVcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
